@@ -1,0 +1,6 @@
+{
+  "name": "Kızılay Gönüllü",
+  "description": "Kızılay'ın modern, kullanıcı dostu ve aktif gönüllülük platformu GönüllüOl 2.0.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
